@@ -1,5 +1,11 @@
 # Vendor Inventory
 
+![Organisation](https://img.shields.io/badge/Organisation-SecureSupply%20Corp-blue)
+![Total Vendors](https://img.shields.io/badge/Total%20Vendors-40-orange)
+![Tier 1](https://img.shields.io/badge/Tier%201-8-red)
+![Tier 2](https://img.shields.io/badge/Tier%202-18-orange)
+![Tier 3](https://img.shields.io/badge/Tier%203-14-lightgrey)
+
 **Organisation:** SecureSupply Corp
 **Document:** Complete Vendor Inventory and Risk Tier Assignments
 **Version:** 1.0
