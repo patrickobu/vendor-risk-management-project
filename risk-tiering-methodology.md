@@ -1,5 +1,10 @@
 # Risk Tiering Methodology
 
+![Organisation](https://img.shields.io/badge/Organisation-SecureSupply%20Corp-blue)
+![Framework](https://img.shields.io/badge/Framework-NIST%20SP%20800--161-purple)
+![Tiers](https://img.shields.io/badge/Risk%20Tiers-3-orange)
+![Status](https://img.shields.io/badge/Status-Approved-brightgreen)
+
 **Organisation:** SecureSupply Corp
 **Document:** Vendor Risk Tiering Methodology
 **Framework:** NIST SP 800-161 Supply Chain Risk Management
