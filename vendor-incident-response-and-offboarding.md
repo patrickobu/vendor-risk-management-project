@@ -1,5 +1,10 @@
 # Vendor Incident Response Procedure
 
+![Organisation](https://img.shields.io/badge/Organisation-SecureSupply%20Corp-blue)
+![Levels](https://img.shields.io/badge/Incident%20Levels-4-orange)
+![Critical Response](https://img.shields.io/badge/Critical%20Response-1%20Hour-red)
+![Document](https://img.shields.io/badge/Includes-Offboarding%20Checklist-teal)
+
 **Organisation:** SecureSupply Corp
 **Document:** Vendor Security Incident Response Procedure
 **Version:** 1.0
