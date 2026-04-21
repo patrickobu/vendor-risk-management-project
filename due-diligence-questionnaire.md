@@ -1,5 +1,10 @@
 # Vendor Due Diligence Questionnaire
 
+![Organisation](https://img.shields.io/badge/Organisation-SecureSupply%20Corp-blue)
+![Sections](https://img.shields.io/badge/Sections-9-orange)
+![Applies To](https://img.shields.io/badge/Applies%20To-Tier%201%20%26%20Tier%202-purple)
+![Frequency](https://img.shields.io/badge/Tier%201%20Frequency-Annual-red)
+
 **Organisation:** SecureSupply Corp
 **Document:** Security Due Diligence Questionnaire — Tier 1 and Tier 2 Vendors
 **Version:** 1.0
