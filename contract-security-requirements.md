@@ -1,5 +1,10 @@
 # Contract Security Requirements
 
+![Organisation](https://img.shields.io/badge/Organisation-SecureSupply%20Corp-blue)
+![Clauses](https://img.shields.io/badge/Total%20Clauses-19-orange)
+![Mandatory](https://img.shields.io/badge/Mandatory%20for%20All-4%20Clauses-red)
+![Tier 1 Only](https://img.shields.io/badge/Tier%201%20Only-15%20Clauses-purple)
+
 **Organisation:** SecureSupply Corp
 **Document:** Minimum Security Requirements for Vendor Contracts
 **Version:** 1.0
