@@ -1,5 +1,10 @@
 # Ongoing Vendor Monitoring Programme
 
+![Organisation](https://img.shields.io/badge/Organisation-SecureSupply%20Corp-blue)
+![Monitoring](https://img.shields.io/badge/Monitoring-Continuous-brightgreen)
+![Daily](https://img.shields.io/badge/Daily%20Checks-3-orange)
+![Annual](https://img.shields.io/badge/Annual%20Reviews-Tier%201%20%26%202-purple)
+
 **Organisation:** SecureSupply Corp
 **Document:** Ongoing Vendor Risk Monitoring Programme
 **Version:** 1.0
