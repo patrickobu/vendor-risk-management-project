@@ -68,15 +68,13 @@ contractual security obligations, and monitor for changes in risk.
 
 | File | Description |
 |------|-------------|
-| `README.md` | This file — programme overview |
-| `vendor-inventory.md` | Complete inventory of all 40 vendors with risk tiers |
-| `risk-tiering-methodology.md` | How vendors are classified into tiers 1-3 |
-| `due-diligence-questionnaire.md` | Security questionnaire sent to all vendors |
-| `tier1-assessments/README.md` | Detailed assessments for the 8 critical vendors |
-| `contract-security-requirements.md` | Minimum security clauses for all vendor contracts |
-| `ongoing-monitoring-programme.md` | How vendor risk is tracked continuously |
-| `vendor-incident-response.md` | What to do when a vendor has a security incident |
-| `offboarding-checklist.md` | Secure vendor off-boarding process |
+| [README.md](README.md) | This file — programme overview |
+| [vendor-inventory.md](vendor-inventory.md) | Complete inventory of all 40 vendors with risk tiers |
+| [risk-tiering-methodology.md](risk-tiering-methodology.md) | How vendors are classified into tiers 1 to 3 |
+| [due-diligence-questionnaire.md](due-diligence-questionnaire.md) | Security questionnaire sent to all vendors |
+| [contract-security-requirements.md](contract-security-requirements.md) | Minimum security clauses for all vendor contracts |
+| [ongoing-monitoring-programme.md](ongoing-monitoring-programme.md) | How vendor risk is tracked continuously |
+| [vendor-incident-response-and-offboarding.md](vendor-incident-response-and-offboarding.md) | What to do when a vendor has a security incident |
 
 ---
 
