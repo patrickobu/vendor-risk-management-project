@@ -1,0 +1,71 @@
+<svg width="100%" viewBox="0 0 680 480" xmlns="http://www.w3.org/2000/svg">
+<title>SecureSupply Corp vendor risk tier pyramid showing 40 vendors across three tiers</title>
+<desc>Pyramid diagram showing Tier 1 critical vendors at top with highest scrutiny, Tier 2 important vendors in middle, and Tier 3 standard vendors at base</desc>
+
+<text x="340" y="26" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#1A4B8A">SecureSupply Corp — Vendor Risk Tier Framework</text>
+<text x="340" y="44" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#555">40 vendors classified across 3 risk tiers — NIST SP 800-161</text>
+
+<!-- Tier 1 - Top of pyramid -->
+<polygon points="340,70 220,180 460,180" fill="#CC0000" opacity="0.85"/>
+<text x="340" y="118" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">TIER 1</text>
+<text x="340" y="136" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#FFCCCC">CRITICAL</text>
+<text x="340" y="154" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="#FFFFFF">8</text>
+<text x="340" y="172" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#FFCCCC">vendors</text>
+
+<!-- Tier 2 - Middle of pyramid -->
+<polygon points="220,180 130,290 550,290 460,180" fill="#E6A817" opacity="0.85"/>
+<text x="340" y="222" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">TIER 2</text>
+<text x="340" y="240" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#FFF8E1">IMPORTANT</text>
+<text x="340" y="264" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="#FFFFFF">18</text>
+<text x="340" y="282" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#FFF8E1">vendors</text>
+
+<!-- Tier 3 - Base of pyramid -->
+<polygon points="130,290 60,390 620,390 550,290" fill="#5F5E5A" opacity="0.85"/>
+<text x="340" y="328" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">TIER 3</text>
+<text x="340" y="346" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#F1EFE8">STANDARD</text>
+<text x="340" y="368" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="#FFFFFF">14</text>
+<text x="340" y="382" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#F1EFE8">vendors</text>
+
+<!-- Tier descriptions - right side -->
+<rect x="480" y="80" width="185" height="86" rx="6" fill="#FFEBEE" stroke="#CC0000" stroke-width="0.8"/>
+<text x="572" y="100" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#8A0000">Tier 1 Requirements</text>
+<text x="492" y="116" font-family="Arial,sans-serif" font-size="10" fill="#333">• Full DDQ annually</text>
+<text x="492" y="130" font-family="Arial,sans-serif" font-size="10" fill="#333">• Right to audit clause</text>
+<text x="492" y="144" font-family="Arial,sans-serif" font-size="10" fill="#333">• ISO 27001 or SOC 2 required</text>
+<text x="492" y="158" font-family="Arial,sans-serif" font-size="10" fill="#333">• Annual pen test evidence</text>
+
+<rect x="480" y="190" width="185" height="74" rx="6" fill="#FFF8E1" stroke="#E6A817" stroke-width="0.8"/>
+<text x="572" y="210" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#7A5200">Tier 2 Requirements</text>
+<text x="492" y="226" font-family="Arial,sans-serif" font-size="10" fill="#333">• Standard DDQ every 2 years</text>
+<text x="492" y="240" font-family="Arial,sans-serif" font-size="10" fill="#333">• Security addendum required</text>
+<text x="492" y="254" font-family="Arial,sans-serif" font-size="10" fill="#333">• Breach notification clause</text>
+
+<rect x="480" y="290" width="185" height="60" rx="6" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="0.8"/>
+<text x="572" y="310" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#444441">Tier 3 Requirements</text>
+<text x="492" y="326" font-family="Arial,sans-serif" font-size="10" fill="#333">• Basic contract review only</text>
+<text x="492" y="340" font-family="Arial,sans-serif" font-size="10" fill="#333">• No sensitive data access</text>
+
+<!-- Tier 1 examples left side -->
+<rect x="15" y="80" width="185" height="86" rx="6" fill="#FFEBEE" stroke="#CC0000" stroke-width="0.8"/>
+<text x="107" y="100" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#8A0000">Tier 1 Examples</text>
+<text x="28" y="116" font-family="Arial,sans-serif" font-size="10" fill="#333">• CloudBase (cloud hosting)</text>
+<text x="28" y="130" font-family="Arial,sans-serif" font-size="10" fill="#333">• PaySecure (payments)</text>
+<text x="28" y="144" font-family="Arial,sans-serif" font-size="10" fill="#333">• DataStream (analytics)</text>
+<text x="28" y="158" font-family="Arial,sans-serif" font-size="10" fill="#333">• CoreBank (core system)</text>
+
+<rect x="15" y="190" width="185" height="74" rx="6" fill="#FFF8E1" stroke="#E6A817" stroke-width="0.8"/>
+<text x="107" y="210" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#7A5200">Tier 2 Examples</text>
+<text x="28" y="226" font-family="Arial,sans-serif" font-size="10" fill="#333">• TalentHub (HR system)</text>
+<text x="28" y="240" font-family="Arial,sans-serif" font-size="10" fill="#333">• GlobalMail (email)</text>
+<text x="28" y="254" font-family="Arial,sans-serif" font-size="10" fill="#333">• DocuSign (e-signatures)</text>
+
+<rect x="15" y="290" width="185" height="60" rx="6" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="0.8"/>
+<text x="107" y="310" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#444441">Tier 3 Examples</text>
+<text x="28" y="326" font-family="Arial,sans-serif" font-size="10" fill="#333">• Office supplies vendors</text>
+<text x="28" y="340" font-family="Arial,sans-serif" font-size="10" fill="#333">• Cleaning and catering</text>
+
+<!-- Bottom total bar -->
+<rect x="60" y="400" width="560" height="36" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1"/>
+<text x="340" y="416" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#1A4B8A">Total vendors managed: 40  |  Open findings: 4  |  Year 1 DDQ completion: 100% Tier 1, 83% Tier 2</text>
+<text x="340" y="430" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#185FA5">Framework: NIST SP 800-161 Supply Chain Risk Management + ISO 27001:2022 Annex A.5.19-5.22</text>
+</svg>
