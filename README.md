@@ -89,6 +89,8 @@ based on their access to systems and data.
 | Tier 2 | Important | Has access to internal systems but not directly to client data | HR system, email provider, legal software | Standard questionnaire + biennial review |
 | Tier 3 | Standard | No access to sensitive data or systems | Office supplies, catering, general contractors | Basic contract review only |
 
+![Vendor risk tier pyramid](securesupply-vendor-tier-pyramid.svg)
+
 ---
 
 ## Vendor Inventory Summary
